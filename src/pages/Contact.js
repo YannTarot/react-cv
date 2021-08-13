@@ -13,12 +13,12 @@ const Contact = () => {
             <ul>
               <li>
                 <i className="fas fa-map-marker-alt"></i>
-                <span>Nantes</span>
+                <span className="clickInput">Nantes</span>
               </li>
               <li>
                 <i className="fas fa-mobile-alt"></i>
                 <CopyToClipboard text="0761711068">
-                <span className="clickInput" onClick={() => {alert('Téléphone copié !')}}>07 61 71 10 68</span>
+                <span className="clickInput" ><a href="tel:0761711068">07 61 71 10 68</a></span>
                 </CopyToClipboard>
               </li>
               <li>

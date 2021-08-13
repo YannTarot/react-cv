@@ -1,3 +1,4 @@
+
 .home {
 
   .homeContent {
@@ -58,7 +59,11 @@
 }
 @media screen and (max-width: 850px){
   .homeContent {
-    margin: 0 !important;
+    margin: 1rem 0 0 0 !important;
+    height: 85vh;
+  }
+  .pdf a {
+    margin: 1.5rem;
   }
 }
 @media screen and (max-width:580px){
@@ -68,6 +73,7 @@
     }
     h1 {
       font-size: 3rem !important;
+      margin-left: -8px;
     }
     h2 {
       font-size: 1.8rem !important;

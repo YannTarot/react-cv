@@ -116,7 +116,6 @@
       grid-area: 2;
       font-family: $font-2;
       font-size: 1.65rem;
-      @include verticalCenter;
       justify-content: left;
 
     }
@@ -213,9 +212,15 @@
       i {
         font-size: 1rem;
       }
+
+      h3 {
+        justify-content: center !important;
+      }
     }
     .infosContent {
       width: 100% !important;
+
+      top: 50%;
     }
   }
 }
@@ -232,6 +237,21 @@
 
       img {
         height: 100% !important;
+      }
+      .infosContent {
+        width: 100% !important;
+        top: 50% !important;
+      }
+      .head {
+        display: grid !important;
+
+        h2 {
+          padding-bottom: 1rem;
+        }
+
+        .sourceCode {
+          padding: 1rem;
+        }
       }
     }
   }
