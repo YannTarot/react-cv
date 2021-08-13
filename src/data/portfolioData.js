@@ -22,7 +22,7 @@ export const portfolioData = [
     name: 'edgeangel.co',
     languages: ['javascript','php','css'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-    source: 'https://github.com/mathieulima/ea-edgeangel-co/tree/master/templates/notes',
+    source: 'http://edgeangel.co',
     info: 'Votre partenaire data marketing. Exploitez les données et la technologie pour décupler vos performances.',
     picture: './media/project3.png'
   },

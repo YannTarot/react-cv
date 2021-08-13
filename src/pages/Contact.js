@@ -44,9 +44,9 @@ const Contact = () => {
               <h4>Facebook</h4>
               <i className="fab fa-facebook"></i>
             </a>
-            <a href="http://www.codepen.com" target="_blank" rel="noopener noreferrer">
-              <h4>Codepen</h4>
-              <i className="fab fa-codepen"></i>
+            <a href="http://www.twitter.com/yann_tarot" target="_blank" rel="noopener noreferrer">
+              <h4>Twitter</h4>
+              <i className="fab fa-twitter"></i>
             </a>
           </ul>
         </div>

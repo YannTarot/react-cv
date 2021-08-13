@@ -52,7 +52,7 @@ const Navigation = () => {
             <a href="https://www.facebook.com/yann.tarot" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
           </li>
           <li>
-            <a href="https://codepen.io/trending" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
+            <a href="https://www.twitter.com/yann_tarot" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
           </li>
         </ul>
 
